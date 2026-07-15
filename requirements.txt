@@ -1,0 +1,6 @@
+mss
+lxml
+beautifulsoup4
+pymem
+pillow
+requests
